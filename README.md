@@ -1,5 +1,7 @@
 # Casttro
 
+This repository holds the code for a personal portfolio website built with Angular. It displays information about work experience, skills, and completed projects. It has a modern design that is adaptable to mobile and desktop devices. The code is well-commented and organized for easy understanding and customization.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
 ## Development server
