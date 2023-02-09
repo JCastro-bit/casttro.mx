@@ -2,7 +2,15 @@
 
 This repository holds the code for a personal portfolio website built with Angular. It displays information about work experience, skills, and completed projects. It has a modern design that is adaptable to mobile and desktop devices. The code is well-commented and organized for easy understanding and customization.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version: 15.1.5 and Node:18.12.0
+
+This project use [PrimeNG](https://primeng.org), an open source library of UI components for Angular applications.
+
+PrimeNG provides a large collection of high-quality UI components that can be used to enhance the user interface of Angular applications. 
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
 
 ## Development server
 
