@@ -10,7 +10,14 @@ PrimeNG provides a large collection of high-quality UI components that can be us
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+### Install dependencies
 
+```
+npm install primeng --save
+npm install primeicons --save
+npm install primeflex  --save
+npm install @angular/animations --save
+```
 
 ## Development server
 
