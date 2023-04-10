@@ -1,1 +1,9 @@
-<p>nav works!</p>
+<!-- nav.component.html -->
+<p-menubar [model]="items">
+  <ng-template pTemplate="start">
+    <img src="assets/logo.png" alt="Logo" class="logo" />
+  </ng-template>
+  <ng-template pTemplate="end">
+    <input pInputText type="text" placeholder="Buscar" [(ngModel)]="search" />
+  </ng-template>
+</p-menubar>
